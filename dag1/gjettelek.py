@@ -17,9 +17,10 @@ while gjett != fasit:
     if gjett < fasit:
         print("Du har gjettet for lavt.")
     elif gjett > fasit:
-        print("Du har gjettet for høyt.")
+        print("Du har gjettet for høyt.")        
     gjett = int(input("Gjett en gang til: "))
     forsøk = forsøk + 1
+    print(f"Dette er forsøk nummer {forsøk}")
 
 print("Helt riktig!")
 print(f"Du har gjettet {forsøk} ganger.")
