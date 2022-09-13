@@ -41,7 +41,7 @@ Oppgavene er delt inn på de to hoveddagene:
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
 * Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_oppgaver_dag_1.pdf)
 * Oppgaver for dag 2 finner du [her](dag2/oppgaver_dag2.pdf)
-* Løsningsforslag for oppgavene ti ldag 2 finner du [her](dag2/loesningsforslag_oppgaver_dag_2.pdf)
+* Løsningsforslag for oppgavene til dag 2 finner du [her](dag2/loesningsforslag_oppgaver_dag2.pdf)
 * Et hefte med bonusoppgaver finner du [her](./bonusoppgaver.pdf)
 * Løsningsforslag for bonusoppgaver finner du [her](./loesnings_forslag_bonusoppgaver.pdf)
 
